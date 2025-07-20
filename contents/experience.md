@@ -23,7 +23,7 @@
      width="35%" 
      style="display:block; margin:0 auto">
 
-<img src="./static/assets/img/yanshengxing.jpeg" 
+<img src="./static/assets/img/yanshengxing.jpg" 
      alt="yanshengxing" 
      width="35%" 
      style="display:block; margin:0 auto">
