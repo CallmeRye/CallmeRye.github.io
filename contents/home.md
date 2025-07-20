@@ -1,12 +1,19 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+#### 教育经历
+**南京大学** 985 211
+信息管理学院 图书情报（信息资源管理） 硕士 
+
+**南京理工大学** 211
+经济管理学院 信息管理与信息系统      本科
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>RyeSparke@163.com</code>  
+<code>1900600920@qq.com</code>  
 
-#### Education  
+
+
+<!-- #### Education  
 **XX University**, Master of XX (XX – XX)  
 • GPA: XX/XX  
 
@@ -17,4 +24,4 @@ I'm currently pursuing a Master's degree in XX at the Department of XX, XX Unive
 • GPA: XX/XX (top XX%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+XX, XX, XX, XX. -->
