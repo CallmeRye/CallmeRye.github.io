@@ -4,7 +4,7 @@
 <p align="center">
   <img src="./static/assets/img/xiaoguanjun.png" 
        alt="校冠军" 
-       width="30%">
+       width="3%">
 </p>
 
 - 金铲铲之战S12赛季高校邀请赛 全国亚军
