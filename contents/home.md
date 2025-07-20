@@ -23,5 +23,7 @@
 **XX University**, Honours Bachelor of XX (XX – XX)  
 • GPA: XX/XX (top XX%)  
 
+快捷注释 ctrl+/
+
 #### Research Interests  
 XX, XX, XX, XX. -->
