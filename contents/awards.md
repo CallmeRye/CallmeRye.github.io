@@ -10,5 +10,5 @@
 - 金铲铲之战S12赛季高校邀请赛 全国亚军
 <img src="./static/assets/img/yajun.jpeg" 
      alt="全国亚军" 
-     width="3%" 
+     width="30%" 
      style="display:block; margin:0 auto">
