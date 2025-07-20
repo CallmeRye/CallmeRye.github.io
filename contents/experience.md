@@ -1,15 +1,26 @@
 ### **快手游戏-弹指宇宙工作室**  
-** 2025.3 – 至今 | 战斗策划实习生**  
+**2025.3 – 至今 | 战斗策划实习生**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+#### 实习期间配置并正式落地的角色战斗效果:
+**虞美人**
+<img src="./static/assets/img/yumeiren.jpeg" 
+     alt="yumeiren" 
+     width="35%" 
+     style="display:block; margin:0 auto">
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+**阎**
+<img src="./static/assets/img/yan.jpeg" 
+     alt="yumeiren" 
+     width="35%" 
+     style="display:block; margin:0 auto">
 
----
+**阎 技能设计**
+<img src="./static/assets/img/yanjineng.jpeg" 
+     alt="yumeiren" 
+     width="35%" 
+     style="display:block; margin:0 auto">
 
+#### 更多角色等待版本更新中...
 <!-- ### **软件工程师实习生**  
 **2025年1月 – 2025年6月 | 字节跳动**  
 
